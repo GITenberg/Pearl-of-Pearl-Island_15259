@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3234
     wikipedia: https://en.wikipedia.org/wiki/William_Arthur_Dunkerley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15259#Pearl-of-Pearl-Island
 gutenberg_issued: '2005-03-04'
 gutenberg_type: Text
 identifiers:
